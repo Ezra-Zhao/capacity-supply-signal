@@ -1,0 +1,2 @@
+cluster_code,forecast_delivery_date,forecast_qty,recorded_at,note
+CL-03,2026-10-28,128,2026-09-15,example update: receiving dock congestion +10d

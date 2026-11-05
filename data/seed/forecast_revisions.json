@@ -1,0 +1,50 @@
+[
+  {
+    "cluster_code": "CL-01",
+    "revision_no": 2,
+    "forecast_delivery_date": "2026-07-23",
+    "forecast_qty": 512,
+    "recorded_at": "2026-06-20",
+    "note": "carrier slot moved +5d"
+  },
+  {
+    "cluster_code": "CL-02",
+    "revision_no": 2,
+    "forecast_delivery_date": "2026-08-17",
+    "forecast_qty": 248,
+    "recorded_at": "2026-07-02",
+    "note": "partial yield: qty 256 -> 248"
+  },
+  {
+    "cluster_code": "CL-02",
+    "revision_no": 3,
+    "forecast_delivery_date": "2026-08-20",
+    "forecast_qty": 248,
+    "recorded_at": "2026-07-28",
+    "note": "freight consolidation +3d"
+  },
+  {
+    "cluster_code": "CL-04",
+    "revision_no": 2,
+    "forecast_delivery_date": "2027-01-06",
+    "forecast_qty": 512,
+    "recorded_at": "2026-11-15",
+    "note": "factory output slipped +5d"
+  },
+  {
+    "cluster_code": "CL-04",
+    "revision_no": 3,
+    "forecast_delivery_date": "2026-12-29",
+    "forecast_qty": 512,
+    "recorded_at": "2026-12-10",
+    "note": "expedite approved: pulled back in"
+  },
+  {
+    "cluster_code": "CL-05",
+    "revision_no": 2,
+    "forecast_delivery_date": "2027-02-21",
+    "forecast_qty": 256,
+    "recorded_at": "2027-01-19",
+    "note": "rack integration queue +6d"
+  }
+]
